@@ -1,4 +1,7 @@
-### Bonjour ! Je m'appelle Thibaut LEFEVRE👋
+### Hello world ! 👋🏻
+
+Je m'appelle Thibaut LEFÈVRE et je souhaite devenir développeur front-end à la fin de mes études.
+
 
 <!--
 **LEFEVREThibaut/LEFEVREThibaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
