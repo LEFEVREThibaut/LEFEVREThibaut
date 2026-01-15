@@ -1,6 +1,6 @@
 ### Hello world ! 👋🏻
 
-Je m'appelle Thibaut LEFÈVRE et je souhaite devenir développeur front-end à la fin de mes études.
+Je m'appelle Thibaut LEFÈVRE et je souhaite devenir développeur full-stack orienté back-end à la fin de mes études.
 
 Si vous voulez en savoir davantage sur mes compétences, vous pouvez regarder mes dépôts github ou bien vous rendre sur mon <a href="https://thibaut-lefevre.fr">portfolio</a>
 <!--
